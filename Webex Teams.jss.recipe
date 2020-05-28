@@ -37,15 +37,15 @@
 		<dict/>
 		<key>parent_recipes</key>
 		<dict>
-			<key>com.github.autopkg.chalcahuite-recipes.download.WebexTeams</key>
+			<key>com.github.autopkg.precursorca-recipes.download.WebexTeams</key>
 			<dict>
 				<key>path</key>
-				<string>~/Library/AutoPkg/RecipeRepos/com.github.autopkg.chalcahuite-recipes/Webex Teams/Webex Teams.download.recipe</string>
+				<string>~/Library/AutoPkg/RecipeRepos/com.github.autopkg.precursorca-recipes/Cisco/Webex Teams.download.recipe</string>
 			</dict>
-			<key>com.github.autopkg.chalcahuite-recipes.pkg.WebexTeams</key>
+			<key>com.github.autopkg.precursorca-recipes.pkg.WebexTeams</key>
 			<dict>
 				<key>path</key>
-				<string>~/Library/AutoPkg/RecipeRepos/com.github.autopkg.chalcahuite-recipes/Webex Teams/Webex Teams.pkg.recipe</string>
+				<string>~/Library/AutoPkg/RecipeRepos/com.github.autopkg.precursorca-recipes/Cisco/Webex Teams.pkg.recipe</string>
 			</dict>
 			<key>com.github.jss-recipes.jss.WebexTeams</key>
 			<dict>
